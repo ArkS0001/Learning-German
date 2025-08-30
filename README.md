@@ -1,4 +1,5 @@
 # Learning-German
+<img width="1317" height="848" alt="Screenshot 2025-08-30 at 23-30-17 German learning webapp" src="https://github.com/user-attachments/assets/b67c31f4-24c1-4b5d-8c7e-02b119ffbf6b" />
 
 
 | English        | German          | Pronunciation     |
